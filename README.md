@@ -1,5 +1,5 @@
 
-Torrent Client is my personal project built from scratch using [**Node.js**] libraries to download torrent files.
+Torrent Client is my personal project built from scratch using Nodejs libraries to download torrent files.
 
 ## Development setup
 
